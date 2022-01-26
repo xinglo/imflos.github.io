@@ -17,7 +17,7 @@ const IndexPage: React.FC<IndexPageProps> = ({data}) => {
     <Layout title={siteTitle} transparentNavigation={true}>
       <Stars />
       <Head
-        title="Space"
+        title="Home"
         image="/images/main_site.jpg"
         keywords={[
           `blog`,

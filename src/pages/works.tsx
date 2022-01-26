@@ -17,7 +17,7 @@ const WorksPage: React.FC<WorksPageProps> = ({data}) => {
   return (
     <Layout title={siteTitle}>
       <Head
-        title="Works"
+        title="Blog"
         keywords={[
           `blog`,
           `gatsby`,

@@ -1,12 +1,12 @@
 export const components = {
   navigation: {
     helpMessage: {
-      mobile: `swiping and zooming bring a space trip`,
-      desktop: `moving and scrolling bring a space trip`
+      mobile: `Swipe around the screen or zoom it`,
+      desktop: `Move around the screen or scroll it`
     }
   },
   intro: {
-    title: `Hi, I am Zhaoxun "Springs" Liu`
+    title: `Hi, I am Ramón Morcillo, a Software Engineer from Spain`
   },
   notFound: {
     notFoundImageSrc: `../../../images/sup_seal.gif`

@@ -5,29 +5,29 @@ require('dotenv').config({
 })
 
 module.exports = {
-  pathPrefix: '/',
+  pathPrefix: '/gatsby-personal-site',
   siteMetadata: {
-    title: `SprLau`,
+    title: `ramonmorcillo.com`,
     description: `My personal site made with Gatsby.js`,
-    siteUrl: `https://sprlau.github.io`,
-    image: `/images/my_photo.JPEG`,
+    siteUrl: `https://ramonmorcillo.com`,
+    image: `/images/ramon_morcillo_meta_image.jpg`,
     googleSiteVerification:
       process.env.GOOGLE_SITE_VERIFICATION ||
       'Add the Google Site Verification',
     author: {
-      name: `Zhaoxun Liu`,
-      intro: `Hi, I am Zhaoxun "Springs" Liu`,
-      url: `https://sprlau.github.io`,
-      email: `this.is.springs@gmail.com`
+      name: `Ramon Morcillo`,
+      intro: `Hi, I am Ramón Morcillo, a Software Engineer from Spain`,
+      url: `https://ramonmorcillo.com`,
+      email: `hey@ramonmorcillo.com`
     },
     social: [
-      {name: `GitHub`, socialUrl: `https://github.com/SprLau`},
+      {name: `GitHub`, socialUrl: `https://github.com/reymon359`},
       {
         name: `Linkedin`,
-        socialUrl: `https://www.linkedin.com/in/zhaoxun-springs-liu-7848b21b1/`
+        socialUrl: `https://www.linkedin.com/in/ramon-morcillo/`
       },
-      {name: `Instagram`, socialUrl: `https://instagram.com/springslau`},
-      {name: `Twitter`, socialUrl: `https://twitter.com/SpringsLau`}
+      {name: `Codepen`, socialUrl: `https://codepen.io/reymon359`},
+      {name: `Twitter`, socialUrl: `https://twitter.com/reymon359`}
     ]
   },
   plugins: [
@@ -114,14 +114,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://sprlau.github.io`
+        siteUrl: `https://ramonmorcillo.com`
       }
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Zhaoxun Liu`,
-        short_name: `sprlau.github.io`,
+        name: `Ramon Morcillo`,
+        short_name: `ramonmorcillo.com`,
         start_url: `/`,
         background_color: `#255799`,
         theme_color: `#255799`,

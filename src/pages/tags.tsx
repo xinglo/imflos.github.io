@@ -17,7 +17,7 @@ const TagsPage: React.FC<TagsPageProps> = ({data}) => {
   return (
     <Layout title={siteTitle}>
       <Head
-        title="Tags"
+        title="All tags"
         keywords={[
           `blog`,
           `gatsby`,
