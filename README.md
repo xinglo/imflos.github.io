@@ -22,7 +22,7 @@
   </a>
 </p>
 
-## Built With these Technologies
+## Built With
 
 - **[Gatsby](https://www.gatsbyjs.com/):** React-based open source framework for creating websites and apps.
 - **[React](https://reactjs.org/):** Javascript library for building User Interfaces.
