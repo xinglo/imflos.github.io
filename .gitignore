@@ -1,0 +1,5 @@
+.git
+_site
+.DS_Store
+_include/.DS_Store
+/.idea
