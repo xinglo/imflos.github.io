@@ -7,9 +7,9 @@ require('dotenv').config({
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
-    title: `ramonmorcillo.com`,
+    title: `sprlau.github.io`,
     description: `My personal site made with Gatsby.js`,
-    siteUrl: `https://ramonmorcillo.com`,
+    siteUrl: `https://sprlau.github.io`,
     image: `/images/ramon_morcillo_meta_image.jpg`,
     googleSiteVerification:
       process.env.GOOGLE_SITE_VERIFICATION ||
@@ -17,7 +17,7 @@ module.exports = {
     author: {
       name: `Ramon Morcillo`,
       intro: `Hi, I am Ramón Morcillo, a Software Engineer from Spain`,
-      url: `https://ramonmorcillo.com`,
+      url: `https://sprlau.github.io`,
       email: `hey@ramonmorcillo.com`
     },
     social: [
