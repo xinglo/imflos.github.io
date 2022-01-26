@@ -21,6 +21,7 @@
     <img alt="Version" src="https://img.shields.io/github/package-json/v/reymon359/gatsby-personal-site?logo=github" />
   </a>
 </p>
+
 ## Built With these Technologies
 
 - **[Gatsby](https://www.gatsbyjs.com/):** React-based open source framework for creating websites and apps.
