@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-personal-site",
+  "name": "sprlau-site",
   "private": true,
   "description": "A Gatsby Typescript project for my personal site",
   "version": "1.0.0",
-  "author": "Ramon Morcillo @reymon359",
+  "author": "Springs Lau",
   "scripts": {
     "build": "gatsby build",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
@@ -83,9 +83,9 @@
   "license": "none yet",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reymon359/gatsby-personal-site"
+    "url": "https://github.com/SprLau/SprLau.github.io"
   },
   "bugs": {
-    "url": "https://github.com/reymon359/gatsby-personal-site/issues"
+    "url": "https://github.com/SprLau/SprLau.github.io/issues"
   }
 }

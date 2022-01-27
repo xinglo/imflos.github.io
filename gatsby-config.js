@@ -114,14 +114,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://ramonmorcillo.com`
+        siteUrl: `https://sprlau.github.io`
       }
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Ramon Morcillo`,
-        short_name: `ramonmorcillo.com`,
+        short_name: `sprlau.github.io`,
         start_url: `/`,
         background_color: `#255799`,
         theme_color: `#255799`,

@@ -163,7 +163,7 @@ export const Menu: React.FC = () => {
       </Nav>
       <Nav>
         <NavItem>
-          <NavLink to="/">Index</NavLink>
+          <NavLink to="/">Space</NavLink>
         </NavItem>
         {pages.map(page => (
           <NavItem key={page}>
@@ -173,9 +173,10 @@ export const Menu: React.FC = () => {
         <NavItem>
           <a
             rel="noopener"
-            href="mailto:hey@ramonmorcillo.com?subject=Hi%20there!"
+            href="mailto:this.is.springs@gmail.com"
+            target="_blank"
           >
-            Contact
+            Send an E-mail
           </a>
         </NavItem>
       </Nav>

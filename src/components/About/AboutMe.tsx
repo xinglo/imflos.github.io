@@ -18,88 +18,81 @@ const AboutMe: React.FC = () => {
   return (
     <Content>
       <p>
-        I enjoy life and have fun going on adventures, doing software
-        development, meeting new people, helping others, learning new things,
-        improving myself, trying new foods, visiting new places, opening my
-        mind, achieving my goals, and doing sports (running, hiking, and
-        boardsports mainly).
-      </p>
-
-      <p>
-        I built this website with&nbsp;
-        <a
-          href="https://reactjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          React,&nbsp;
-        </a>
-        <a
-          href="https://www.gatsbyjs.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Gatsby,
-        </a>
-        &nbsp; and&nbsp;
-        <a
-          href="https://www.typescriptlang.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          TypeScript
-        </a>
-        &nbsp;among other technologies. I use it as a place to share what I
-        learn and do. I believe in an open source world and&nbsp;
-        <a
-          href="https://github.com/reymon359/gatsby-personal-site"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          you can find this site code on GitHub.
-        </a>
+        I am currently an undergraduate in my junior year from the School of Computer Science and Engineering :)
+        I am also an amateur cellist.
       </p>
       <p>
+        My Chinese name is 刘兆薰, pronounces [lʲə́u ʈʂàu ɕʷīn]. You can also call me <strong>Springs</strong> if this pronounces
+        easier for you.
+      </p>
+      <p>
+        "Part of what made the Macintosh great was that the people working on it
+        were musicians, poets, and artists, and zoologists, and historians. They also happened to be the best
+        computer scientists in the world", saying Steve Jobs.
+      </p>
+      <p>
+        I have been pondering how machines can break out of their computational boundaries to understand human
+        intelligence. My goal is to develop computationally efficient deep learning models and algorithms,
+        building the computational foundations to enable computers with the abilities to analyze, recognize and
+        predict subtle human communicative behaviors during social interactions.
+      </p>
+      <p>
+        My interests mainly are&nbsp;
         <a
-          href="../../../files/ramon-morcillo-resume.pdf"
+          href="https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Here is my resume
+          Human-computer Interaction (HCI)&nbsp;
         </a>
-        &nbsp;in case you want to have a look.
+        and&nbsp;
+        <a
+          href="https://en.wikipedia.org/wiki/Visual_computing"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Visual Computing (Vision & Graphics)
+        </a>
+        &nbsp;.
+      </p>
+      <p>
+        Here is my&nbsp;
+        <a
+          href="../../../files/zhaoxun_liu_resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          curriculum vitae
+        </a>
+        &nbsp;in case you want to have a look :)
       </p>
       <p> Sometimes I&nbsp;
         <a
-          href="https://twitter.com/reymon359"
+          href="https://twitter.com/SpringsLau"
           target="_blank"
           rel="noopener noreferrer"
         >
-          tweet
+          tweet on Twitter
         </a>
         &nbsp;and share&nbsp;
         <a
-          href="https://www.instagram.com/ramon.mor/"
+          href="https://www.instagram.com/springslau/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          moments
+          moments and pics on Instagram
         </a>
-        &nbsp;or&nbsp;
-        <a
-          href="https://www.instagram.com/ramon.mor.photos/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          pictures
-        </a>
-        &nbsp;on Instagram. You can contact me through them or sending an email to&nbsp;
+        &nbsp;. You can contact me via these social media accounts or simply sending an E-mail to&nbsp;
         <a
           rel="noopener"
-          href="mailto:hey@ramonmorcillo.com?subject=Hi%20there!"
+          target="_blank"
+          href="mailto:this.is.springs@gmail.com"
         >
-          hey@ramonmorcillo.com
+          this.is.springs@gmail.com
         </a>
+      </p>
+      <p>
+        Cheers!
       </p>
     </Content>
   )
