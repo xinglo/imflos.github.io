@@ -6,7 +6,7 @@ export const components = {
     }
   },
   intro: {
-    title: `Hi, I am Zhaoxun "Springs" Liu`
+    title: `Hi, I am Zhaoxun "Springs" Liu.`
   },
   notFound: {
     notFoundImageSrc: `../../../images/sup_seal.gif`

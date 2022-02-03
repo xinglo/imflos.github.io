@@ -3,21 +3,7 @@ export const getRandomNumber = (max = 10, min = 1) =>
 
 export const getRandomFruit = () => {
   const fruits = [
-    'kiwi',
-    'coconut',
-    'grapes',
-    'melon',
-    'watermelon',
-    'orange',
-    'lemon',
-    'banana',
-    'pineapple',
-    'red_apple',
-    'green_apple',
-    'pear',
-    'peach',
-    'cherries',
-    'strawberry'
+    'cello'
   ]
 
   return fruits[Math.floor(Math.random() * fruits.length)]

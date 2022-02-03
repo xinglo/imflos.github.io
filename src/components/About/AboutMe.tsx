@@ -18,7 +18,7 @@ const AboutMe: React.FC = () => {
   return (
     <Content>
       <p>
-        I am currently an undergraduate in my junior year from the School of Computer Science and Engineering :)
+        I am currently an undergraduate in my junior year from the School of Computer Science and Engineering, Beihang University :)
         I am also an amateur cellist.
       </p>
       <p>
