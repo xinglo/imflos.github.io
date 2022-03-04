@@ -15,19 +15,19 @@ module.exports = {
       process.env.GOOGLE_SITE_VERIFICATION ||
       'Add the Google Site Verification',
     author: {
-      name: `Ramon Morcillo`,
-      intro: `Hi, I am Ramón Morcillo, a Software Engineer from Spain`,
+      name: `Zhaoxun \"Springs\" Liu`,
+      intro: `Hi, I am Zhaoxun \"Springs\" Liu.`,
       url: `https://sprlau.github.io`,
-      email: `hey@ramonmorcillo.com`
+      email: `this.is.springs@gmail.com`
     },
     social: [
-      {name: `GitHub`, socialUrl: `https://github.com/reymon359`},
+      {name: `GitHub`, socialUrl: `https://github.com/SprLau`},
       {
         name: `Linkedin`,
-        socialUrl: `https://www.linkedin.com/in/ramon-morcillo/`
+        socialUrl: `https://www.linkedin.com/in/zhaoxun-springs-liu-7848b21b1/`
       },
-      {name: `Codepen`, socialUrl: `https://codepen.io/reymon359`},
-      {name: `Twitter`, socialUrl: `https://twitter.com/reymon359`}
+      {name: `Instagram`, socialUrl: `https://www.instagram.com/springslau/`},
+      {name: `Twitter`, socialUrl: `https://twitter.com/SpringsLau`}
     ]
   },
   plugins: [
@@ -126,7 +126,7 @@ module.exports = {
         background_color: `#255799`,
         theme_color: `#255799`,
         display: `standalone`,
-        icon: `static/images/favicon/orange.png`, // This path is relative to the root of the site.
+        icon: `static/images/favicon/cello.png`, // This path is relative to the root of the site.
         crossOrigin: `use-credentials`
       }
     },

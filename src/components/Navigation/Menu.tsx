@@ -173,6 +173,15 @@ export const Menu: React.FC = () => {
         <NavItem>
           <a
             rel="noopener"
+            href="../../../files/zhaoxun_liu_resume.pdf"
+            target="_blank"
+          >
+            Résumé
+          </a>
+        </NavItem>
+        <NavItem>
+          <a
+            rel="noopener"
             href="mailto:this.is.springs@gmail.com"
             target="_blank"
           >

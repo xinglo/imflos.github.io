@@ -19,7 +19,6 @@ const AboutMe: React.FC = () => {
     <Content>
       <p>
         I am currently an undergraduate in my junior year from the School of Computer Science and Engineering, Beihang University :)
-        I am also an amateur cellist.
       </p>
       <p>
         My Chinese name is 刘兆薰, pronounces [lʲə́u ʈʂàu ɕʷīn]. You can also call me <strong>Springs</strong> if this pronounces
@@ -27,7 +26,7 @@ const AboutMe: React.FC = () => {
       </p>
       <p>
         "Part of what made the Macintosh great was that the people working on it
-        were musicians, poets, and artists, and zoologists, and historians. They also happened to be the best
+        were musicians, and artists... they also happened to be the best
         computer scientists in the world", saying Steve Jobs.
       </p>
       <p>
@@ -90,6 +89,16 @@ const AboutMe: React.FC = () => {
         >
           this.is.springs@gmail.com
         </a>
+      </p>
+      <p>
+        I am blessed to have unmatched support from my family and my dearest love&nbsp;
+        <a
+          href="https://sylgaw.github.io"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Sylvia
+        </a>. She is the MFEO for me and an outstanding User Experience Designer. I also thank the opportunities from all the renowned institutes I have encountered.
       </p>
       <p>
         Cheers!

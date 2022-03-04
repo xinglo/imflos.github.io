@@ -2,13 +2,13 @@ import React from 'react'
 import styled from 'styled-components'
 
 const StyledPicture = styled.picture`
-  grid-area: 1 / 4 / last-line / end;
+  grid-area: 1 / 5 / last-line / end;
   position: relative;
   overflow: hidden;
 
   &::before {
     content: '';
-    padding-top: 150%;
+    padding-top: 250%;
     display: block;
     ${props => props.theme.media.max.sm`
       padding-top: 100%;
@@ -25,13 +25,13 @@ const StyledPicture = styled.picture`
 
 const StyledImage = styled.img`
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 90%;
   margin: auto;
   top: -100%;
-  right: -100%;
-  bottom: -100%;
-  left: -100%;
+  right: -80%;
+  bottom: -80%;
+  left: -80%;
   mix-blend-mode: lighten;
   opacity: 0.5;
   display: block;

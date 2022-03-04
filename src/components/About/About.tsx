@@ -17,7 +17,7 @@ export const Wrapper = styled.section`
 `
 
 export const Information = styled.header`
-  grid-row: 2 / 4;
+  grid-row: 1 / 6;
   grid-column: 1 / 6;
   z-index: 3;
   ${props => props.theme.media.max.md`
