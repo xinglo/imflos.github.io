@@ -6,7 +6,7 @@ export const components = {
     }
   },
   intro: {
-    title: `Hi, I am Zhaoxun "Springs" Liu, a Software Engineer, an Amateur Cellist, and a Cat Fancier.`
+    title: `Hi, I am Xingru "IRIS" Long, an Economics Student, a PC Gamer, and a Cat Fancier.`
   },
   notFound: {
     notFoundImageSrc: `../../../images/sup_seal.gif`

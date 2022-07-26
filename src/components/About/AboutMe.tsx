@@ -18,31 +18,31 @@ const AboutMe: React.FC = () => {
   return (
     <Content>
       <p>
-        I am currently an undergraduate in my junior year from the School of Computer Science and Engineering, Beihang University :)
+        I am currently an undergraduate in my Senior year from the School of Economics, University of California, Berkeley :)
       </p>
       <p>
-        My Chinese name is 刘兆薰, pronounces [lʲə́u ʈʂàu ɕʷīn]. You can also call me <strong>Springs</strong> if this pronounces
+        My Chinese name is 龙星汝. You can also call me <strong>Iris</strong> if this pronounces
         easier for you.
       </p>
       <p>
-        "Part of what made the Macintosh great was that the people working on it
-        were musicians, and artists... they also happened to be the best
-        computer scientists in the world", saying Steve Jobs.
+        "The most important quality for an investor is temperament,not intellect", saying Warren Buffett.
       </p>
       <p>
-        I have been pondering how machines can break out of their computational boundaries to understand human
-        intelligence. My goal is to develop computationally efficient deep learning models and algorithms,
-        building the computational foundations to enable computers with the abilities to analyze, recognize and
-        predict subtle human communicative behaviors during social interactions.
+      I AM a self-driven and creative student with a solid knowledge base in economics 
+      and keen acumen in business. Possessing experience working as a restaurant manager, 
+      well-versed in establishing management systems and supervising adherence to rules 
+      and regulations. Demonstrated excellent creativity by proposing sales-driven strategies 
+      that maintained revenue increase during the pandemic. Seeking an entry-level position 
+      n marketing to create value for organizations.
       </p>
       <p>
         My interests mainly are&nbsp;
         <a
-          href="https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction"
+          href="https://seekingalpha.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Human-computer Interaction (HCI)&nbsp;
+          Investment (HCI)&nbsp;
         </a>
         and&nbsp;
         <a
@@ -57,7 +57,7 @@ const AboutMe: React.FC = () => {
       <p>
         Here is my&nbsp;
         <a
-          href="../../../files/zhaoxun_liu_resume.pdf"
+          href="https://raw.githubusercontent.com/Imflos/Imflos.github.io/master/imgs/1.jpg"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -67,7 +67,7 @@ const AboutMe: React.FC = () => {
       </p>
       <p> Sometimes I&nbsp;
         <a
-          href="https://twitter.com/SpringsLau"
+          href="https://twitter.com/shiver_o"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -75,7 +75,7 @@ const AboutMe: React.FC = () => {
         </a>
         &nbsp;and share&nbsp;
         <a
-          href="https://www.instagram.com/springslau/"
+          href="https://www.instagram.com/xing._.l/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -85,20 +85,20 @@ const AboutMe: React.FC = () => {
         <a
           rel="noopener"
           target="_blank"
-          href="mailto:this.is.springs@gmail.com"
+          href="mailto:longxingru2@gmail.com"
         >
-          this.is.springs@gmail.com
+          longxingru2@gmail.com
         </a>
       </p>
       <p>
         I am blessed to have unmatched support from my family and my dearest love&nbsp;
         <a
-          href="https://sylgaw.github.io"
+          href="https://instagram.com/ssyp37_?/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Sylvia
-        </a>. She is the MFEO for me and an outstanding User Experience Designer. I also thank the opportunities from all the renowned institutes I have encountered.
+          Amy Peng
+        </a>. She is the BEST GIRL for me and an outstanding User Experience Designer. I also thank the opportunities from all the renowned institutes I have encountered.
       </p>
       <p>
         Cheers!

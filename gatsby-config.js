@@ -7,27 +7,27 @@ require('dotenv').config({
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
-    title: `sprlau.github.io`,
+    title: `Imflos.github.io`,
     description: `My personal site made with Gatsby.js`,
-    siteUrl: `https://sprlau.github.io`,
+    siteUrl: `https://Imflos.github.io`,
     image: `/images/ramon_morcillo_meta_image.jpg`,
     googleSiteVerification:
       process.env.GOOGLE_SITE_VERIFICATION ||
       'Add the Google Site Verification',
     author: {
-      name: `Zhaoxun \"Springs\" Liu`,
-      intro: `Hi, I am Zhaoxun \"Springs\" Liu.`,
-      url: `https://sprlau.github.io`,
-      email: `this.is.springs@gmail.com`
+      name: `Xingru \"Iris\" Long`,
+      intro: `Hi, I am Xingru \"Iris\" Long.`,
+      url: `https://Imflos.github.io`,
+      email: `longxingru2@gmail.com`
     },
     social: [
-      {name: `GitHub`, socialUrl: `https://github.com/SprLau`},
+      {name: `GitHub`, socialUrl: `https://github.com/Imflos`},
       {
         name: `Linkedin`,
-        socialUrl: `https://www.linkedin.com/in/zhaoxun-springs-liu-7848b21b1/`
+        socialUrl: `https://www.linkedin.com/in/xingru-iris-long-229424211/`
       },
-      {name: `Instagram`, socialUrl: `https://www.instagram.com/springslau/`},
-      {name: `Twitter`, socialUrl: `https://twitter.com/SpringsLau`}
+      {name: `Instagram`, socialUrl: `https://www.instagram.com/xing._.l/`},
+      {name: `Twitter`, socialUrl: `https://twitter.com/shiver_o`}
     ]
   },
   plugins: [

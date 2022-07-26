@@ -58,10 +58,10 @@ const Item = styled.div<ItemProps>`
 const Footer = () => (
   <FooterWrapper>
     <Item position="left">
-      <span>Zhaoxun "Springs" Liu - {new Date().getFullYear()}</span>{' '}
+      <span>Xingru"老花子"Long - {new Date().getFullYear()}</span>{' '}
     </Item>
     <Item position="right">
-      made with love & delicacy&nbsp;
+      Made in China with love & dream&nbsp;
       <small
         style={{
           fontSize: '70%'

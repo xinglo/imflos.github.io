@@ -44,7 +44,7 @@ const StyledImage = styled.img`
 const Image: React.FC = () => {
   return (
     <StyledPicture>
-      <StyledImage src="../../../images/my_photo.JPEG" />
+      <StyledImage src="https://raw.githubusercontent.com/Imflos/Imflos.github.io/master/imgs/IMG_1808.JPG" />
     </StyledPicture>
   )
 }

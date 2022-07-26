@@ -173,7 +173,7 @@ export const Menu: React.FC = () => {
         <NavItem>
           <a
             rel="noopener"
-            href="../../../files/zhaoxun_liu_resume.pdf"
+            href="https://raw.githubusercontent.com/Imflos/Imflos.github.io/master/imgs/1.jpg"
             target="_blank"
           >
             Résumé
@@ -182,7 +182,7 @@ export const Menu: React.FC = () => {
         <NavItem>
           <a
             rel="noopener"
-            href="mailto:this.is.springs@gmail.com"
+            href="mailto:longxingru2@gmail.com"
             target="_blank"
           >
             Send an E-mail
