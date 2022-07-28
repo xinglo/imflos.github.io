@@ -2719,7 +2719,7 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-canonical-urls/gatsby-ssr */ "./node_modules/gatsby-plugin-canonical-urls/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "siteUrl": "https://sprlau.github.io"
+    "siteUrl": "https://Imflos.github.io"
   }
 }, {
   name: 'gatsby-plugin-manifest',
@@ -2727,7 +2727,7 @@ var plugins = [{
   options: {
     "plugins": [],
     "name": "Ramon Morcillo",
-    "short_name": "sprlau.github.io",
+    "short_name": "Imflos.github.io",
     "start_url": "/",
     "background_color": "#255799",
     "theme_color": "#255799",

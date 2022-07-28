@@ -1,7 +1,7 @@
 import React from 'react'
 import {getRandomFruit} from '../../utils/misc'
 
-const changeFavicon = (origin = 'https://sprlau.github.io') => {
+const changeFavicon = (origin = 'https://Imflos.github.io') => {
   const head = document.head ?? document.getElementsByTagName('head')[0]
   const faviconName = getRandomFruit()
   const oldLink = document.querySelectorAll(`[href*='/favicon']`)[0]
