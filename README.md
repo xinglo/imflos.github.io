@@ -1,7 +1,9 @@
 
 
 <h1 align="center">
-  SprLau | Site
+  IRIS | Site
+Welcome to my world ;)
+Please enjoy my README
 </h1>
 
 
