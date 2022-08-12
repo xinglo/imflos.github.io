@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  SprLau | Site
+  IRIS | Site
 </h1>
 
 
