@@ -4,7 +4,6 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("/Users/iris/imflos.github.io/.cache/dev-404-page.js")),
   "component---src-pages-404-tsx": preferDefault(require("/Users/iris/imflos.github.io/src/pages/404.tsx")),
   "component---src-pages-about-tsx": preferDefault(require("/Users/iris/imflos.github.io/src/pages/about.tsx")),
   "component---src-pages-blog-tsx": preferDefault(require("/Users/iris/imflos.github.io/src/pages/blog.tsx")),
