@@ -126,7 +126,7 @@ module.exports = {
         background_color: `#255799`,
         theme_color: `#255799`,
         display: `standalone`,
-        icon: `static/images/favicon/cello.png`, // This path is relative to the root of the site.
+        icon: `static/images/favicon/orange.png`, // This path is relative to the root of the site.
         crossOrigin: `use-credentials`
       }
     },
