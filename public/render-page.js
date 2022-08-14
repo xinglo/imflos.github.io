@@ -2884,7 +2884,7 @@ var plugins = [{
     "background_color": "#255799",
     "theme_color": "#255799",
     "display": "standalone",
-    "icon": "static/images/favicon/kiwi.png",
+    "icon": "static/images/favicon/orange.png",
     "crossOrigin": "use-credentials",
     "legacy": true,
     "theme_color_in_head": true,

@@ -9,7 +9,7 @@ module.exports = [{
       options: {"plugins":[],"siteUrl":"https://imflos.github.io"},
     },{
       plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
-      options: {"plugins":[],"name":"Ramon Morcillo","short_name":"imflos.github.io","start_url":"/","background_color":"#255799","theme_color":"#255799","display":"standalone","icon":"static/images/favicon/kiwi.png","crossOrigin":"use-credentials","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","include_favicon":true,"cacheDigest":null},
+      options: {"plugins":[],"name":"Ramon Morcillo","short_name":"imflos.github.io","start_url":"/","background_color":"#255799","theme_color":"#255799","display":"standalone","icon":"static/images/favicon/orange.png","crossOrigin":"use-credentials","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","include_favicon":true,"cacheDigest":null},
     },{
       plugin: require('../node_modules/gatsby-plugin-google-analytics/gatsby-browser.js'),
       options: {"plugins":[],"trackingId":"Add the Google Analytics Tracking ID","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0,"enableWebVitalsTracking":false},
