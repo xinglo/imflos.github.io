@@ -9,7 +9,7 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-manifest',
       plugin: require('/Users/iris/imflos.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Ramon Morcillo","short_name":"imflos.github.io","start_url":"/","background_color":"#255799","theme_color":"#255799","display":"standalone","icon":"static/images/favicon/orange.png","crossOrigin":"use-credentials","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","include_favicon":true,"cacheDigest":"11554d03562f02620af9f4e54e7f1d71"},
+      options: {"plugins":[],"name":"Ramon Morcillo","short_name":"imflos.github.io","start_url":"/","background_color":"#255799","theme_color":"#255799","display":"standalone","icon":"static/images/favicon/kiwi.png","crossOrigin":"use-credentials","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","include_favicon":true,"cacheDigest":null},
     },{
       name: 'gatsby-plugin-google-analytics',
       plugin: require('/Users/iris/imflos.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
